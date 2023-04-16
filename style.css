@@ -145,3 +145,104 @@ body{
     margin-left:20px;    
 
 }
+
+.linkedin-logo{
+    position: absolute;
+    display: flex;
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    top: 50%;
+    font-size: 19px;
+    margin-left: 30px;
+    margin-right: 6px;
+    height: 30px;
+}
+
+
+.linkedin-text{
+    position: absolute;
+    display: flex;
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    top: 50%;
+    font-size: 19px;
+    margin-left: 70px;
+    margin-right: 6px;
+}
+
+.folder-text{
+    position: absolute;
+    display: flex;
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    top: 60%;
+    font-size: 19px;
+    margin-left: 70px;
+    margin-right: 6px;
+}
+
+.folder-logo{
+    position: absolute;
+    display: flex;
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    top: 60%;
+    font-size: 19px;
+    margin-left: 30px;
+    margin-right: 6px;
+    height: 30px;
+}
+
+
+
+.folder-logo:hover{
+    cursor: pointer;
+}
+.folder-text:hover{
+    cursor: pointer;
+}
+
+.linkedin-logo:hover{
+    cursor: pointer;
+}
+.linkedin-text:hover{
+    cursor: pointer;
+}
+
+
+
+.git-text{
+    position: absolute;
+    display: flex;
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    top: 70%;
+    font-size: 19px;
+    margin-left: 70px;
+    margin-right: 6px;
+}
+
+.git-logo{
+    position: absolute;
+    display: flex;
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    top: 70%;
+    font-size: 19px;
+    margin-left: 30px;
+    margin-right: 6px;
+    height: 25px;
+}
+
+.git-logo:hover{
+    cursor: pointer;
+}
+.git-text:hover{
+    cursor: pointer;
+}
