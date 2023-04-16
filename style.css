@@ -36,6 +36,7 @@ body{
     position: absolute;
     display: flex;
     top: 3%;
+    border: 2px solid white;
     
 }
 .nameGH{
@@ -75,9 +76,7 @@ body{
     font-family:'JuneBug';
     color: white;
     font-size: 90px;
-    top: 85%;
-    left: 3%;
-  margin-top: 0.6%;
+    
 }
 
 
@@ -87,16 +86,7 @@ body{
       }
       
 
-      .week{
-        position: absolute;
-        font-family:'JuneBug';
-        color: white;
-        font-size: 30px;
-        top: 83%;
-        font-size: 33px;
-        left: 4%;
-      }
-
+      
  .whats-img{
     position: absolute;
     height: 30px;
@@ -125,7 +115,33 @@ body{
     top: 90%;
 }
 
-.social-net{
-    display: contents;
-    border: 1px solid white;
+
+
+.waer{
+    
+    display: flex;
+    font-family:'JuneBug';
+    color: white;
+    font-size: 90px;
+    margin-top: 25px;
+}
+
+.weeking{
+    
+    position: absolute;
+    top: 86%;
+    left: 3%;
+    display: flex;
+    
+    font-family:'JuneBug';
+    color: white;
+    font-size: 30px;
+}
+.datebla{
+    position: absolute;
+    display: flex;
+    
+    margin-bottom: 100px;
+    margin-left:20px;    
+
 }
