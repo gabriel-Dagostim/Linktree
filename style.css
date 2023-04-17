@@ -246,3 +246,15 @@ body{
 .git-text:hover{
     cursor: pointer;
 }
+
+@media (max-width: 800px) {
+    .weeking{
+        display: none;
+        
+    }
+    body{
+        background-image: url(./img/japan-sunset-purple-evening-4k-5m-1920x1080.jpg);
+        background-repeat: no-repeat;
+        background-size: auto; 
+    }
+}
